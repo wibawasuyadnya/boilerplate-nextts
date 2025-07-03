@@ -14,7 +14,7 @@ a Boilerplate platform built with Next.js and powered by the Bun runtime. The ap
 
 1. Clone the repository:
    ```
-   git clone git@github.com:Boilerplate-NextTS/boilerplate-nextts.git
+   git clone git@github.com:wibawasuyadnya/boilerplate-nextts.git
    cd boilerplate-nextts
    ```
 2. Install dependencies:
